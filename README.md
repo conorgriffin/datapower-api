@@ -1,2 +1,2 @@
 # datapower-api
-A project for generating classes from IBM DataPower XML Management WSDL files.
+This is a skeleton project that can be used to generate Java classes to manage IBM DataPower appliances.  The IBM DataPower appliance provides an XML Management interface which allows the user to use SOAP to perform administrative actions on the appliance.  The project uses Maven to run JAXWS to process the IBM management WSDL file and associated XSD files and generate the Java classes to manage the appliance.  See the wiki for instructions on how to use the project.
