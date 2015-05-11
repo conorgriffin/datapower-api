@@ -7,6 +7,10 @@
   <name>DataPower Management</name>
   <description>A project to generate a jar file containing classes for IBM DataPower management built from WSDL files using JAXWS</description>
   <url>http://www.github.com/conorgriffin/datapower-api</url>
+  <issueManagement>
+    <system>GitHub</system>
+    <url>https://github.com/conorgriffin/datapower-api/issues</url>
+  </issueManagement>
   <developers>
     <developer>
       <name>Conor Griffin</name>
@@ -91,4 +95,5 @@
       </plugin>
     </plugins>
   </build>
+  <inceptionYear>2015</inceptionYear>
 </project>
